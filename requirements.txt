@@ -1,0 +1,8 @@
+#kindly install these libraries in your python cwd and you're good to go... 
+librosa
+numpy
+pandas
+scipy
+sounddevice
+scikit-learn
+joblib
