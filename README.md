@@ -1,6 +1,7 @@
 # Speech Emotion Recognition Project
 
 Welcome to the Speech Emotion Recognition Project! This document will guide you through the entire project, step by step. Whether you’re an expert or a beginner, this guide will help you understand and execute the project with ease.
+first make sure to extract the project file that i've provided
 
 ---
 
